@@ -45,6 +45,6 @@ While solving a simple problem of printing even numbers, I realized something in
 
 That led me to a different solution using range(0, 11, 2), where Python jumps directly from one even number to the next. The output is exactly the same, but Python performs less work because it skips all the odd numbers instead of checking them individually.
 
-==========================================
-Of course, I understand that not every problem can be solved through pattern recognition or optimization. However, exploring these possibilities is part of what makes learning Python so fascinating to me.
-==========================================
+===================================
+**Of course, I understand that not every problem can be solved through pattern recognition or optimization. However, exploring these possibilities is part of what makes learning Python so fascinating to me.**
+===================================
