@@ -2,7 +2,6 @@
 A collection of my Python learning journey, coding experiments, and programming thoughts. 
 
 Thinking in Python 🐍
-Why this repository?
 
 I started learning Python from scratch. Instead of only uploading projects, I wanted to document the moments where my way of thinking changed.
 
@@ -32,8 +31,7 @@ Then I asked myself: Why should Python check every number if I already know that
 for i in range(0, 11, 2):
     print(i)
 
-Because? Every even number + 2 = another even number! 
-Instead of visiting every number, it simply skips the odd number. 
+Because? Every even number + 2 = another even number! Instead of visiting every number, it simply skips the odd number. 
 
 While solving a problem to print even numbers, I realized that I didn't need to check every number. Since every even number is exactly 2 greater than the previous one, I could use range(0, 11, 2) instead of looping through every number and testing i % 2 == 0.
 
