@@ -17,7 +17,7 @@ This repository contains:
 
 My goal isn't to become someone who memorizes Python. My goal is to become someone who thinks like a programmer.
 
-===
+==================================
 
 First Thought 💡 
 
